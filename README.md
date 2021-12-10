@@ -10,4 +10,3 @@ Am Ram Kishore M N, a keen learner and a highly motivated Individual who wishes 
 -⚡ Fun fact - I Love to watch Anime, Eat a lot and play volleyball.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ramkishoremn)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkishoremn&repo=Ramkishore)
-![counter](https://[YourEndpoint].m.pipedream.net)
